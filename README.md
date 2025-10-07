@@ -33,7 +33,7 @@ It provides an intuitive web interface for exploring, modeling, and forecasting 
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/AutoProphet.git
+git clone https://github.com/VRAJ2202/AutoProphet.git
 cd AutoProphet
 pip install -r requirements.txt
 ```
@@ -117,15 +117,6 @@ You can replace it with your own dataset — ensure it has at least:
 ## 🧾 License
 
 This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Vraj Patel**  
-*USC – Predictive Analytics & Data Science Enthusiast*  
-📧 [vraj.patel@usc.edu](mailto:vraj.patel@usc.edu)  
-🌐 [LinkedIn](https://www.linkedin.com/in/vrajpatel) | [GitHub](https://github.com/VRAJ2202)
 
 ---
 
